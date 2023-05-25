@@ -1,6 +1,11 @@
 # Event_Driven_Architecture
 Resources Used - Event Bridge, SQS, SNS , Cloud Watch, Cloud Formation, SAM, Lambda 
 
+# Architecture
+
+![image](https://github.com/satya19977/Event_Driven_Architecture/assets/108000447/cb9d93c3-1214-4cc2-ba26-21819a59f5cf)
+
+
 
 ## Event-Driven with Event Bridge
 
