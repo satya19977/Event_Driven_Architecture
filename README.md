@@ -1,6 +1,6 @@
 # **I have completed the project but in the process of uploading and editing the screen shots. Please refer to the  PPT named Event_Driven_Arch.pptx  to view the  entire architecture. Thank you.**
 
-# Event_Driven_Architecture
+# Event_Driven_Architectures
 Resources Used - Event Bridge, SQS, SNS , Cloud Watch, Cloud Formation, SAM, Lambda
 ---
 
